@@ -1,3 +1,5 @@
+# This is an unofficial fork of https://github.com/catppuccin/tmux. The status line has been modified to better suit my personal needs.
+
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -30,7 +32,7 @@
 2. Add the Catppuccin plugin:
 
 ```bash
-set -g @plugin 'catppuccin/tmux'
+set -g @plugin 'neaton-lab/catppuccin-tmux'
 # ...alongside
 set -g @plugin 'tmux-plugins/tpm'
 ```
